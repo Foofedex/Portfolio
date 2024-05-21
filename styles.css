@@ -88,7 +88,7 @@ h1 {
 }
 
 .main img{
-    width: 350px;
+    width: auto;
     border: 7px solid  aqua;
     height: 500px;
     z-index: 1;
